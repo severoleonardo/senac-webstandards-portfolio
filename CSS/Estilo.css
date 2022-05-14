@@ -1,0 +1,79 @@
+.foto-perfil{
+    height: 152px;
+    width: 152px;
+    max-width: 100%;
+    border-radius: 50%;
+}
+
+.nomeTitulo{
+    color: white
+}
+
+
+.corPrimaria{
+    background-color: #D2B48C;
+}
+
+.corSecundaria{
+    background-color: white;
+}
+
+p{
+    font-family:Lato, Helvetica, Arial, sans-serif;
+    color:black !important;
+}
+
+.icones{
+    padding-left: 5px;
+}
+
+.titulosBrancos{
+    text-underline-position: below;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: white;
+}
+
+.titulosVerdes{
+    text-underline-position: below;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #2c3e50;
+}
+
+.textoBranco{
+    color: white !important;
+}
+
+.jumbotron{
+    margin-bottom: 0px;
+} 
+
+
+.textoFooter{
+    margin: 0px;
+    padding: 15px;
+    padding-bottom: 15px;
+}
+
+h3{
+    padding-top: 60px
+}
+
+h4{
+    padding-bottom: 10px;
+    margin-bottom: 0px;
+}
+
+h6{
+
+    padding-bottom: 10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+html{
+   scroll-behavior: smooth; 
+}
